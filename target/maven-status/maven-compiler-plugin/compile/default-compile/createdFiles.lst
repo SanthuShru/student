@@ -1,0 +1,8 @@
+com/demo/student/StudentApplication.class
+com/demo/student/repository/StudentRepository.class
+com/demo/student/model/Student.class
+com/demo/student/controller/StudentController.class
+com/demo/student/model/StudentMapper.class
+com/demo/student/service/StudentService.class
+com/demo/student/ServletInitializer.class
+com/demo/student/service/StudentServiceImpl.class
